@@ -1,2 +1,2 @@
-# placs-dubug.github.i
+#placs-dubug.github.io
 Minha Loja
